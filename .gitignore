@@ -21,3 +21,27 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/$CACHE_FILE$
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/SpringBootMasteringSecond.iml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/libraries/
+examinator/examinator.iml
+examinator/target/classes/application.yml
+examinator/target/generated-sources/
+mathematics/mathematics.iml
+mathematics/target/classes/application.yml
+mathematics/target/generated-sources/
+mathematics/target/generated-test-sources/
+theology/target/classes/application.yml
+theology/target/generated-sources/
+theology/target/generated-test-sources/
+theology/theology.iml
+/examinator/target/
+/mathematics/target/
+/theology/target/
