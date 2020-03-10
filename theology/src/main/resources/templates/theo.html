@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      lang="ru">
+<head>
+	<th:block th:replace="title::head_fr(${theo})"/>
+	<link rel="stylesheet" th:href="@{/lib/bootstrap.min.css}">
+	<script th:src="@{/lib/jquery.min.js}"></script>
+	<script th:src="@{/lib/bootstrap.min.js}"></script>
+</head>
+<body>
+<div th:replace="title::body_fr(${theo})"></div>
+<h3>This is Theo template</h3>
+</body>
+</html>
